@@ -44,6 +44,7 @@
  </ul>
  <ul><center>SOFT DRINKS</center>
         <li> Mango juice - 3,000/=</li>
+        <li>Pizza - 30,000/=</li>
         <li>Mixed juice - 5,000/=</li>
         <li>Watermelon juice - 3,000/=</li>
         <li>Lemon juice - 3,000/=</li>
@@ -55,6 +56,26 @@
        <li>Soda - 2,000/=</li>
        <li>Yoghurt - 2,000/=</li>     
  </ul>
+<ul><center>LUNCH</center>
+        <li> Goat meat - 12,000/=</li>
+        <li>Chicken - 15,000/=</li>
+        <li>Beef - 8,000/=</li>
+        <li>G.nuts - 5,000/=</li>
+        <li>Beans - 5,000/=</li>
+        <li>Peas - 5,000/=</li>
+        <li>Fish - 12,000/=</li>
+</ul>
+<ul><center>HOT BEVERAGES</center>
+        <li> African Tea - 2,000/=</li>
+        <li>Black Tea - 2,000/=</li>
+        <li>Cofee - 2,000/=</li>
+        <li>Dawa Tea - 3,000/=</li>
+</ul>
+<ul><center>KATOGO</center>
+        <li>Katogo beans - 5,000/=</li>
+        <li>Katogo beef- 5,000/=</li>
+        <li>Katogo offals- 5,000/=</li>
+</ul>
     </div>
   </section>
 
