@@ -22,7 +22,7 @@
 
   <section id="about" class="section">
     <div class="container">
-      <h2>About Us</h2>
+      <h2 <style= background-color:blue;>>About Us</h2>
       <p>Welcome to our restaurant! We serve a wide variety of delicious dishes made with fresh ingredients. We also make deliveries to people around</p>
     </div>
   </section>
