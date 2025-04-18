@@ -9,7 +9,7 @@
 <body>
   <header>
     <div class="container">
-      <h1>AGIE'S FAST FOODS</h1>
+      <h1><center>AGIE'S FAST FOODS</b></h1>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
