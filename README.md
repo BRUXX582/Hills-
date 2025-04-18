@@ -83,14 +83,14 @@
     <div class="container">
       <h2>Contact Us</h2>
       <p>Address: 123 Food Street, Culinary City</p>
-      <p>Phone: (123) 456-7890</p>
-      <p>Email: contact@restaurant.com</p>
+      <p>Phone: (256)706557113/(256)788250403</p>
+      <p>Email: agie'sfastfoods@gmail.com</p>
     </div>
   </section>
 
   <footer>
     <div class="container">
-      <p>&copy; 2025 Restaurant Name. All rights reserved.</p>
+      <p>&copy; AGIE'S FAST FOODS. All rights reserved.</p>
     </div>
   </footer>
 </body>
