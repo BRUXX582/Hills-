@@ -3,6 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .highlight {
+      background-color: yellow; /* Sets the background color of specific elements */
+    }
+  </style>
   
   <link rel="stylesheet" href="styles.css">
 </head>
