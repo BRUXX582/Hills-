@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AGIE'S FAST FOODS<title>
+  
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
     <div class="container">
-      <h1>Restaurant Name</h1>
+      <h1>AGIE'S FAST FOODS</h1>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
@@ -23,7 +23,7 @@
   <section id="about" class="section">
     <div class="container">
       <h2>About Us</h2>
-      <p>Welcome to our restaurant! We serve a wide variety of delicious dishes made with fresh ingredients.</p>
+      <p>Welcome to our restaurant! We serve a wide variety of delicious dishes made with fresh ingredients. We also make deliveries to people around</p>
     </div>
   </section>
 
@@ -31,7 +31,7 @@
     <div class="container">
       <h2>Our Menu</h2>
       <ul>
-        <li>Grilled Chicken - $15</li>
+        <li> - $15</li>
         <li>Vegetarian Pizza - $12</li>
         <li>Seafood Pasta - $18</li>
         <li>Caesar Salad - $10</li>
