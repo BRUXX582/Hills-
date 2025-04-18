@@ -31,16 +31,16 @@
     <div class="container">
       <h2>Our Menu</h2>
       <ul><center>SNACKS</center>
-        <li> Spanish Omlet- 3000/=</li>
-        <li>Sausage {pair}- 3000/=</li>
-        <li>Liver- 7000/=</li>
-        <li>Caesar Salad - $10</li>
-        <li>Caesar Salad - $10</li>
-        <li>Caesar Salad - $10</li>
-        <li>Caesar Salad - $10</li>
-        <li>Caesar Salad - $10</li>
-        <li>Caesar Salad - $10</li>
-       <li>Caesar Salad - $10</li>     
+        <li> Spanish Omlet- 3,000/=</li>
+        <li>Sausage {pair}- 3,000/=</li>
+        <li>Liver- 7,000/=</li>
+        <li>Chapati - 1,000/=</li>
+        <li>Madazi - 1,000/=</li>
+        <li>Pizza - 30,000/=</li>
+        <li>Chips plain - 7,000/=</li>
+        <li>Chips Chicken - 15,000/=</li>
+        <li>Chips Beef - 12,000/=</li>
+       <li>Chips  Fish - 30,000/=</li>     
  </ul>
     </div>
   </section>
