@@ -42,7 +42,7 @@
         <li>Chips Beef - 12,000/=</li>
        <li>Chips  Fish - 30,000/=</li>     
  </ul>
- <ul><center><b>SOFT DRINKS/b></center>
+ <ul><center><b>SOFT DRINKS</b></center>
         <li> Mango juice - 3,000/=</li>
         <li>Pizza - 30,000/=</li>
         <li>Mixed juice - 5,000/=</li>
@@ -71,7 +71,7 @@
         <li>Cofee - 2,000/=</li>
         <li>Dawa Tea - 3,000/=</li>
 </ul>
-<ul><center><b>KATOGO</></center>
+<ul><center><b>KATOGO</b></center>
         <li>Katogo beans - 5,000/=</li>
         <li>Katogo beef- 5,000/=</li>
         <li>Katogo offals- 5,000/=</li>
