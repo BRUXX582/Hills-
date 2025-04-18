@@ -30,7 +30,7 @@
   <section id="menu" class="section">
     <div class="container">
       <h2>Our Menu</h2>
-      <ul><center>SNACKS</center>
+      <ul><center><b>SNACKS</b></center>
         <li> Spanish Omlet- 3,000/=</li>
         <li>Sausage {pair}- 3,000/=</li>
         <li>Liver- 7,000/=</li>
