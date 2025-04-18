@@ -1,4 +1,4 @@
-<!DOCTYPE html background color="light blue" >
+<!DOCTYPE html stylebackground-color:light blue;>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
