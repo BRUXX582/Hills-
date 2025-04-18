@@ -42,6 +42,19 @@
         <li>Chips Beef - 12,000/=</li>
        <li>Chips  Fish - 30,000/=</li>     
  </ul>
+ <ul><center>SOFT DRINKS</center>
+        <li> Mango juice - 3,000/=</li>
+        <li>Mixed juice - 5,000/=</li>
+        <li>Watermelon juice - 3,000/=</li>
+        <li>Lemon juice - 3,000/=</li>
+        <li>Passion juice - 3,000/=</li>
+        <li>Water {big} - 2,500/=</li>
+        <li>Water {small} - 1,500/=</li>
+        <li>Minute maid - 3,000/=</li>
+        <li>Friuts - 5,000/=</li>
+       <li>Soda - 2,000/=</li>
+       <li>Yoghurt - 2,000/=</li>     
+ </ul>
     </div>
   </section>
 
