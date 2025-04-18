@@ -31,11 +31,17 @@
     <div class="container">
       <h2>Our Menu</h2>
       <ul><center>SNACKS</center>
-        <li> - $15</li>
-        <li>Vegetarian Pizza - $12</li>
-        <li>Seafood Pasta - $18</li>
+        <li> Spanish Omlet- 3000/=</li>
+        <li>Sausage {pair}- 3000/=</li>
+        <li>Liver- 7000/=</li>
         <li>Caesar Salad - $10</li>
-      </ul>
+        <li>Caesar Salad - $10</li>
+        <li>Caesar Salad - $10</li>
+        <li>Caesar Salad - $10</li>
+        <li>Caesar Salad - $10</li>
+        <li>Caesar Salad - $10</li>
+       <li>Caesar Salad - $10</li>     
+ </ul>
     </div>
   </section>
 
