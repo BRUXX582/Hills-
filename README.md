@@ -30,7 +30,7 @@
   <section id="menu" class="section">
     <div class="container">
       <h2>Our Menu</h2>
-      <ul>
+      <ul><center>SNACKS</center>
         <li> - $15</li>
         <li>Vegetarian Pizza - $12</li>
         <li>Seafood Pasta - $18</li>
