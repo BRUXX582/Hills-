@@ -84,7 +84,7 @@
       <h2>Contact Us</h2>
       <p>Address: 123 Food Street, Mbarara City</p>
       <p>Phone: (256)706557113/(256)788250403</p>
-      <p>Email: agie'sfastfoods@gmail.com</p>
+      <p>Email: brunoamanyire@gmail.com</p>
     </div>
   </section>
 
