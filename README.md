@@ -79,28 +79,6 @@
 </ul>
     </div>
   </section>
- </section>
-<section id="order" class="section">
-    <h2>Order Online</h2>
-    <form action="/submit-order" method="POST" class="order-form">
-     <label for="name">Your Name:</label>
-      <input type="text" id="name" name="name" placeholder="Enter your name" required>
- <label for="phone">Phone Number:</label>
-      <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
- <label for="menu-item">Select Menu Item:</label>
-      <select id="menu-item" name="menu-item" required>
-        <option value="pizza">Pizza - $12</option>
-        <option value="pasta">Pasta - $10</option>
-        <option value="burger">Burger - $8</option>
-        <option value="salad">Salad - $6</option>
-      </select>
-t<label for="quantity">Quantity:</label>
-      <input type="number" id="quantity" name="quantity" min="1" placeholder="Enter quantity" required>
- <label for="address">Delivery Address:</label>
- <textarea id="address" name="address" placeholder="Enter your delivery address" required></textarea>
- <button type="submit">Place Order</button>
-    </form>
-  </section>
 <section id="contact" class="section">
     <div class="container">
       <h2>Contact Us</h2>
