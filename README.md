@@ -98,7 +98,7 @@
         <input type="email" id="email" name="email" placeholder="Enter your email" required>
 <!-- Address -->
         <label for="address">Delivery Address:</label>
-        <textarea id="address" name="address" rows="4" placeholder="Enter your delivery address" required></textarea>
+        <textarea id="address"name="address" rows="4" placeholder="Enter your delivery address" required></textarea>
 <!-- Order Details -->
         <label for="order">Order Details:</label>
         <textarea id="order" name="order" rows="6" placeholder="Enter your order details (e.g., Pizza - 2, Salad - 1)" required></textarea>
