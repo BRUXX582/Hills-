@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <link rel="stylesheet" href="styles.css">
+   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
@@ -82,8 +81,7 @@
 <header>
     <h1>Online Order Form</h1>
   </header>
-
-  <main>
+ <main>
     <section id="order-section" class="section">
       <h2>Place Your Order</h2>
       <form action="/submit-order" method="POST" class="order-form">
