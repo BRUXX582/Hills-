@@ -6,13 +6,6 @@
   
   <link rel="stylesheet" href="styles.css">
 </head>
-<head>
-<body>
-<audio autoplay loop>
-    <source src="/storage/emulated/0/Ringtones/Alan_Walker,_K-391___Emelie_Hollow_-_Lily__Lyrics_(128k).mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</body>
 <body>
   <header>
     <div class="container">
