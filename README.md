@@ -97,7 +97,7 @@
 t<label for="quantity">Quantity:</label>
       <input type="number" id="quantity" name="quantity" min="1" placeholder="Enter quantity" required>
  <label for="address">Delivery Address:</label>
-      <textarea id="address" name="address" placeholder="Enter your delivery address" required></textarea>
+ <textarea id="address" name="address" placeholder="Enter your delivery address" required></textarea>
  <button type="submit">Place Order</button>
     </form>
   </section>
