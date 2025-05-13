@@ -97,10 +97,6 @@ size="10"><br>
       </form>
     </section>
   </main>
-
-  <footer>
-    <p>&copy; 2025 Online Order. All rights reserved.</p>
-  </footer>
 <footer>
     <p>&copy; 2025 Online Order. All rights reserved.</p>
   </footer>
