@@ -6,6 +6,13 @@
   
   <link rel="stylesheet" href="styles.css">
 </head>
+<head>
+<body>
+<audio autoplay loop>
+    <source src="your_music_file.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</body>
 <body>
   <header>
     <div class="container">
