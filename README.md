@@ -90,23 +90,32 @@
         <!-- Name field -->
         <label for="name">Your Name:</label>
         <input type="text" id="name" name="name" placeholder="Enter your name" required>
-<!-- Phone Number -->
+
+        <!-- Phone Number -->
         <label for="phone">Phone Number:</label>
         <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
- <!-- Email -->
+
+        <!-- Email -->
         <label for="email">Email Address:</label>
         <input type="email" id="email" name="email" placeholder="Enter your email" required>
-<!-- Address -->
+
+        <!-- Address -->
         <label for="address">Delivery Address:</label>
-        <textarea id="address"name="address" rows="4" placeholder="Enter your delivery address" required></textarea>
-<!-- Order Details -->
+        <textarea id="address" name="address" rows="4" placeholder="Enter your delivery address" required></textarea>
+
+        <!-- Order Details -->
         <label for="order">Order Details:</label>
         <textarea id="order" name="order" rows="6" placeholder="Enter your order details (e.g., Pizza - 2, Salad - 1)" required></textarea>
-<!-- Submit Button -->
+
+        <!-- Submit Button -->
         <button type="submit">Submit Order</button>
       </form>
     </section>
   </main>
+
+  <footer>
+    <p>&copy; 2025 Online Order. All rights reserved.</p>
+  </footer>
 <footer>
     <p>&copy; 2025 Online Order. All rights reserved.</p>
   </footer>
