@@ -79,6 +79,43 @@
 </ul>
     </div>
   </section>
+<header>
+    <h1>Online Order Form</h1>
+  </header>
+
+  <main>
+    <section id="order-section" class="section">
+      <h2>Place Your Order</h2>
+      <form action="/submit-order" method="POST" class="order-form">
+        <!-- Name field -->
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+        <!-- Phone Number -->
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
+
+        <!-- Email -->
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+        <!-- Address -->
+        <label for="address">Delivery Address:</label>
+        <textarea id="address" name="address" rows="4" placeholder="Enter your delivery address" required></textarea>
+
+        <!-- Order Details -->
+        <label for="order">Order Details:</label>
+        <textarea id="order" name="order" rows="6" placeholder="Enter your order details (e.g., Pizza - 2, Salad - 1)" required></textarea>
+
+        <!-- Submit Button -->
+        <button type="submit">Submit Order</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Online Order. All rights reserved.</p>
+  </footer>
 <section id="contact" class="section">
     <div class="container">
       <h2>Contact Us</h2>
