@@ -80,17 +80,14 @@
     </div>
   </section>
  </section>
-
-  <section id="order" class="section">
+<section id="order" class="section">
     <h2>Order Online</h2>
     <form action="/submit-order" method="POST" class="order-form">
-      <label for="name">Your Name:</label>
+     <label for="name">Your Name:</label>
       <input type="text" id="name" name="name" placeholder="Enter your name" required>
-
-      <label for="phone">Phone Number:</label>
+ <label for="phone">Phone Number:</label>
       <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
-
-      <label for="menu-item">Select Menu Item:</label>
+ <label for="menu-item">Select Menu Item:</label>
       <select id="menu-item" name="menu-item" required>
         <option value="pizza">Pizza - $12</option>
         <option value="pasta">Pasta - $10</option>
