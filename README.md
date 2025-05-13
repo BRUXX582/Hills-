@@ -94,18 +94,14 @@
         <option value="burger">Burger - $8</option>
         <option value="salad">Salad - $6</option>
       </select>
-
-      <label for="quantity">Quantity:</label>
+t<label for="quantity">Quantity:</label>
       <input type="number" id="quantity" name="quantity" min="1" placeholder="Enter quantity" required>
-
-      <label for="address">Delivery Address:</label>
+ <label for="address">Delivery Address:</label>
       <textarea id="address" name="address" placeholder="Enter your delivery address" required></textarea>
-
-      <button type="submit">Place Order</button>
+ <button type="submit">Place Order</button>
     </form>
   </section>
-
-  <section id="contact" class="section">
+<section id="contact" class="section">
     <div class="container">
       <h2>Contact Us</h2>
       <p>Address: 123 Food Street, Mbarara City</p>
